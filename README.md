@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/UMKC-Law/Initiatives-Inventory.png?label=ready&title=Ready)](http://waffle.io/UMKC-Law/Initiatives-Inventory)
 
 GOALS
 ======
