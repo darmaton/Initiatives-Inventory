@@ -1,7 +1,4 @@
 
-
-[![Stories in Ready](https://badge.waffle.io/codeforkansascity/Vacant2Vibrant.svg?label=ready&title=Ready)](http://waffle.io/codeforkansascity/Vacant2Vibrant)
-
 GOALS
 ======
 
