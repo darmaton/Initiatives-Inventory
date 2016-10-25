@@ -5,6 +5,7 @@ Tag Install-psr-4
 ----------------------
 
 This first commit has PSR-4 which is a standard of coding style as well as loads an autoloader.
+[Read PSR-4](http://www.php-fig.org/psr/psr-4/) for coding styles.
 The auto loader allows us to put our classes such as TestClass.php in `src/LTPP/Inv` and have 
 load it by saying:
 

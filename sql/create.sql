@@ -12,6 +12,8 @@ CREATE TABLE `organizations` (
   `state` varchar(2) DEFAULT '',
   `county` varchar(24) DEFAULT '',
   `zip` varchar(10) DEFAULT '',
+  `created` datetime DEFAULT NULL,
+  `changed` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB 
   AUTO_INCREMENT=1 
