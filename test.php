@@ -12,7 +12,7 @@ if ( $pdo = connect_to_LTPP_database() ) {
 
     $Organization = new \LTPP\Inv\Organizations( $pdo, true );
 
-    print "Bad Insert\n-----------------------------\n";
+    print "<pre>Bad Insert\n-----------------------------\n";
 
     $record = array('name' => 'test1', 'city' => 'Kansas City', 'zip' => 'MO', 'barham' => 'not');
 
